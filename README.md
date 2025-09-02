@@ -195,7 +195,7 @@ Data security refers to the practices and processes in place to ensure data prot
     
   **Data Encryption**</li>
   <ul>
-    <li>Converting data into a code to prevent unauthorized access. This includes both at-rest and in-transit encryption.</li>
+    <li>Converting data into code to prevent unauthorized access. This includes both at-rest and in-transit encryption.</li>
   </ul>
  <li>
    
@@ -230,7 +230,7 @@ Data security refers to the practices and processes in place to ensure data prot
 As technology evolves, so do threats. It's crucial to stay informed about emerging data security trends, such as the rise of quantum computing and its implications on encryption, or the increasing use of biometrics for authentication.
 
 <h2>Conclusion</h2>
-Data security is an ever-evolving field that demands proactive strategies, constant vigilance, and a culture of security awareness. As data continues to play an integral role in our personal and professional lives, understanding and implementing robust data security practices become not just advisable, but indispensable.
+Data security is an ever-evolving field that demands proactive strategies, constant vigilance, and a culture of security awareness. As data continues to play an integral role in our personal and professional lives, understanding and implementing robust data security practices becomes not just advisable but indispensable.
 
 <h2>Definitions</h2>
 <ul>
@@ -268,4 +268,4 @@ Data security is an ever-evolving field that demands proactive strategies, const
 <br>
 <a href="https://github.com/work-ed-cyber/11.1-med"> Introduction to Data Security </a> - Medium<br>
 
-<h2>Additonal Resources</h2>
+<h2>Additional Resources</h2>
